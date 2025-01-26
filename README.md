@@ -25,3 +25,8 @@ This project investigates content trends on two major streaming platforms: Netfl
    - Examined whether newer content is being onboarded faster or if older content dominates acquisitions.
 
 This project serves as a comprehensive exploration of streaming platform strategies using EDA and data visualization, offering actionable insights into content curation trends in the competitive streaming industry.
+
+# Contributors
+1. Ricky Miura
+2. Gopi Maguluri
+3. Victor Wei
